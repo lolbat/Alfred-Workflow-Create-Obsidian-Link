@@ -38,7 +38,7 @@ The last item is optional but recommended. If you put all of your link pages int
 
 In order to start the Workflow you need to activate Alfred, while your browser is the frontmost app, and type the `obbookmark` keyword.  This can be set to anything that you want. 
 
-![Start the workflow](images/start.jpg)
+![Start the workflow](images/start.png)
 
 The Workflow will show a scrolling list of all of the Markdown pages in your Vault or Links folder if you use one. Select one and then hit Return. 
 
@@ -46,13 +46,21 @@ The Workflow will create a Markdown URL using the data from the frontmost page i
 
 This URL is then copied to the clipboard.
 
-![Select a note](images/selectnote.jpg)
+![Select a note](images/selectnote.png)
 
 The Workflow will create an obsidian: format URL that will be parsed by the Advanced URI plugin. This will open the selected page in source mode so you can paste in the URL created earlier. 
 
 ![Voila!](images/obsidian.jpg)
 
 ## Updates
+
+### v1.3
+Released Jun 2nd, 2023
+
+#### Changes
+* changed icon for Markdown files
+* changed images in this Readme
+* changed name and keyword to match 
 
 ### v1.2
 
