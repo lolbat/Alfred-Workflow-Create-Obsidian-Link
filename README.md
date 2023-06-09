@@ -54,6 +54,14 @@ The Workflow will create an obsidian: format URL that will be parsed by the Adva
 
 ## Updates
 
+### 1.3.1
+
+Released June 9th, 2023
+
+#### Changes
+* Added Arc to the list of browsers
+* Added check to make sure that there is a browser as the frontmost app
+
 ### v1.3
 Released Jun 2nd, 2023
 
